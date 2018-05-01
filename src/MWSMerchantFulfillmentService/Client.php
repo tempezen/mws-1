@@ -53,7 +53,7 @@ class MWSMerchantFulfillmentService_Client implements MWSMerchantFulfillmentServ
 
 
     /**
-     * Cancel Shipment
+     * Cancel Shipment, cancel it
      * Cancels an existing shipment.  This will only succeed if the cancellation window has not passed and if the shipment
      *     has not been cancelled already.
      *
