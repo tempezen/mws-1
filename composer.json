@@ -1,5 +1,5 @@
 {
-  "name": "brickfox/mws",
+  "name": "wpos2/mws-1",
   "description": "Amazon Marketplace Web Service libraries",
   "minimum-stability": "dev",
   "license": "Apache-2.0",
@@ -7,8 +7,8 @@
     "name": "Amazon.com, Inc.",
     "homepage": "https://developer.amazonservices.de/"
   }, {
-    "name": "Nikolas Hermann",
-    "email": "nikolas.hermann@brickfox.de"
+    "name": "Peter S Christie",
+    "email": "pchristie@walts.com"
   }],
   "include-path": ["src/"],
   "autoload": {
